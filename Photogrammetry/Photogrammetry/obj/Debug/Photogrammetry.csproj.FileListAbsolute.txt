@@ -1,0 +1,10 @@
+C:\Users\Администратор\source\repos\Photogrammetry\Photogrammetry\bin\Debug\Photogrammetry.exe.config
+C:\Users\Администратор\source\repos\Photogrammetry\Photogrammetry\bin\Debug\Photogrammetry.exe
+C:\Users\Администратор\source\repos\Photogrammetry\Photogrammetry\bin\Debug\Photogrammetry.pdb
+C:\Users\Администратор\source\repos\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.Form1.resources
+C:\Users\Администратор\source\repos\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.Properties.Resources.resources
+C:\Users\Администратор\source\repos\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.exe
+C:\Users\Администратор\source\repos\Photogrammetry\Photogrammetry\obj\Debug\Photogrammetry.pdb
